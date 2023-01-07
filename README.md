@@ -74,3 +74,5 @@ const Heading1 = () => (
     </h1>
 )
 ```
+
+JSX - https://dev.to/aaronsm46722627/what-in-the-heck-is-jsx-58a3
